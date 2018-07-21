@@ -1,0 +1,4 @@
+- Integrate with Steam ID
+- Redesign home page
+- Add community suggestions / approval system for new cards
+- Set up full buildchain
